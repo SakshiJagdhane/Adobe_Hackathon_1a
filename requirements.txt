@@ -1,0 +1,7 @@
+PyMuPDF==1.22.3
+pdf2image
+pytesseract
+opencv-python
+numpy
+Pillow
+langdetect
